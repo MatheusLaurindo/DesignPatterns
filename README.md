@@ -125,7 +125,7 @@ Cada pasta de padrão contém:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/padroes-de-projeto.git
+git clone https://github.com/MatheusLaurindo/DesignPatterns.git
 ```
 
 2. Acesse o diretório do padrão desejado:
